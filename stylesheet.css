@@ -25,7 +25,7 @@ header{
   height: 100px;
 }
 .page-title h1{
-  font-size: 50px;
+  font-size: 100px;
   color: #11683D;
   float: left;
 }
@@ -33,7 +33,7 @@ header{
 .btn{
   border-radius: 10px;
   float: right;
-  font-size: 25px;
+  font-size: 30px;
   padding: 20px;
   margin: 30px 5px;
 }
@@ -52,7 +52,7 @@ header{
 }
 
 .main-copy h1{
-  font-size: 40px;
+  font-size: 100px;
   background-color: rgba(77, 142, 110, 0.5);
   padding: 80px 30px;
   text-align: center;
@@ -69,7 +69,7 @@ header{
 
 .husei{
   margin: 30px 70px 60px 70px;
-  font-size: 15px;
+  font-size: 50px;
 }
 
 
@@ -89,7 +89,7 @@ font-weight: bold;
   border-radius: 10px;
   background-color: #8da89be2;
   color: white;
-  font-size: 15px;
+  font-size: 50px;
   padding: 30px;
   margin: 25px 70px;
   text-align: center;
@@ -109,7 +109,7 @@ font-weight: bold;
 
 .attention{
   margin: 40px 70px 60px 70px;
-  font-size: 13px;
+  font-size: 50px;
   color: red;
 }
 
