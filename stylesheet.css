@@ -64,12 +64,12 @@ header{
 
 .kakui{
   margin: 40px 70px 50px 70px;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 .husei{
   margin: 30px 70px 60px 70px;
-  font-size: 30px;
+  font-size: 40px;
 }
 
 
@@ -84,6 +84,7 @@ header{
 color: red;
 font-weight: bold;
 }
+  
 
 .btn2{
   border-radius: 10px;
@@ -168,6 +169,8 @@ top: 15px;
   text-align: center;
   margin-top: 80px;
 }
+
+
 
 footer{
   height: 100px;
